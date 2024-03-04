@@ -33,7 +33,14 @@
 6. Open your browser and visit:
 -  http://localhost:5173/
 
-##Snapshots
+# Login Credentials
 
 <img width="959" alt="index " src="https://github.com/i-manaswiniee/Greendzine/assets/143373040/ed691f42-20e7-47e3-964d-053da18c2358">
+
+<img width="944" alt="index1" src="https://github.com/i-manaswiniee/Greendzine/assets/143373040/e58c47c7-3a62-46a7-841b-3f947f2ef1da">
+
+<img width="944" alt="index3" src="https://github.com/i-manaswiniee/Greendzine/assets/143373040/be9b1451-d0cb-4afe-a9bf-7822d260e0b2">
+
+<img width="959" alt="index4" src="https://github.com/i-manaswiniee/Greendzine/assets/143373040/acfae4fd-bbbc-4e0f-87a5-c15e5d8d1db9">
+
 
