@@ -33,5 +33,7 @@
 6. Open your browser and visit:
 -  http://localhost:5173/
 
-#Snapshots
+##Snapshots
+
 <img width="959" alt="index " src="https://github.com/i-manaswiniee/Greendzine/assets/143373040/ed691f42-20e7-47e3-964d-053da18c2358">
+
