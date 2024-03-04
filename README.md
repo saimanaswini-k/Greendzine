@@ -1,6 +1,5 @@
 
-## Technologies Used
-
+# Technologies Used
 - React
 - JavaScript
 - CSS
@@ -10,8 +9,7 @@
 - email : admin@gmail.com 
 - password : admin
 
-## How to Run Locally
-
+# How to Run Locally
 1. Clone this repository:
    ```bash
    git clone https://github.com/i-manaswiniee/Greendzine.git
