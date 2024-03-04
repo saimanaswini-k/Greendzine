@@ -1,32 +1,36 @@
-# Technologies Used
-> React
-> JavaScript
-> CSS
-> HTML
+
+## Technologies Used
+
+- React
+- JavaScript
+- CSS
+- HTML
 
 # Login Credentials
-email: admin@gmail.com
-password: admin
+- email : admin@gmail.com 
+- password : admin
 
-# Live Demo
-Click--> (https://greendzine00.vercel.app)
+## How to Run Locally
 
-# Steps to Run
-Step-1 : Clone the repository.
-git clone https://github.com/i-manaswiniee/Greendzine.git
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/i-manaswiniee/Greendzine.git
 
-Step-2 : Make sure you've installed Node.js and VSCode (OR Respective platform to run)
-To install Node.js : https://nodejs.org/en
-To install Visual Studio Code : https://code.visualstudio.com/download
+2. Make sure you've installed Node.js and VSCode (OR Respective platform to run).
+- To install Node.js : https://nodejs.org/en 
+- To install Visual Studio Code : https://code.visualstudio.com/download
 
-Step-3 : Navigate to the project directory.
-cd Greendzine
+3. Navigate to the project directory:
+   ```bash
+   cd Greendzine
 
-Step-4 : Install corresponding dependencies.
-npm install
+4. Install corresponding dependencies:
+   ```bash
+   npm install
+ 
+5. Start the development server:
+   ```bash
+   npm run dev
 
-Step-5 : Start the development server.
-npm run dev
-
-Step-6 : Open your browser and visit the below link.
-http://localhost:5173
+6. Open your browser and visit:
+-  http://localhost:5173/
