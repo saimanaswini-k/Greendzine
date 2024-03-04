@@ -13,8 +13,8 @@ Click--> (https://greendzine00.vercel.app)
 
 # Steps to Run
 Step-1 : Clone the repository.
-'''bash
 git clone https://github.com/i-manaswiniee/Greendzine.git
+
 Step-2 : Make sure you've installed Node.js and VSCode (OR Respective platform to run)
 To install Node.js : https://nodejs.org/en
 To install Visual Studio Code : https://code.visualstudio.com/download
